@@ -1,0 +1,32 @@
+﻿  Window.cpp
+  Timing.cpp
+d:\personal practice\graphicstutorials\gameengine\timing.cpp(30): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+d:\personal practice\graphicstutorials\gameengine\timing.cpp(46): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+d:\personal practice\graphicstutorials\gameengine\timing.cpp(49): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+  TextureCache.cpp
+  SpriteBatch.cpp
+d:\personal practice\graphicstutorials\gameengine\spritebatch.cpp(26): warning C4018: '<': signed/unsigned mismatch
+d:\personal practice\graphicstutorials\gameengine\spritebatch.cpp(69): warning C4018: '<': signed/unsigned mismatch
+d:\personal practice\graphicstutorials\gameengine\spritebatch.cpp(99): warning C4018: '<': signed/unsigned mismatch
+  Sprite.cpp
+d:\personal practice\graphicstutorials\gameengine\sprite.cpp(25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\personal practice\graphicstutorials\gameengine\sprite.cpp(26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\personal practice\graphicstutorials\gameengine\sprite.cpp(27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\personal practice\graphicstutorials\gameengine\sprite.cpp(28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  ResourceManager.cpp
+  picoPNG.cpp
+  IOManager.cpp
+d:\personal practice\graphicstutorials\gameengine\iomanager.cpp(19): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+d:\personal practice\graphicstutorials\gameengine\iomanager.cpp(23): warning C4244: '-=': conversion from 'std::streamoff' to 'int', possible loss of data
+  InputManager.cpp
+  ImageLoader.cpp
+  GLSLProgram.cpp
+  GameEngine.cpp
+  Errors.cpp
+  Camera2D.cpp
+  Generating Code...
+opengl32.lib(OPENGL32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+opengl32.lib(OPENGL32.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+glew32.lib(glew32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+glew32.lib(glew32.dll) : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  GameEngine.vcxproj -> D:\Personal Practice\graphicsTutorials\Debug\GameEngine.lib
